@@ -12,6 +12,11 @@ To get started with the project:
 4. Use the available scripts (`yarn start`, `yarn test`, `yarn build`, `yarn eject`) to run, test, build, and eject the project, respectively.
 5. Explore the codebase and customize it according to your requirements.
 
+### Results
+![image](https://github.com/AdityaCoder-N/data-analysis-task/assets/91337266/a1b06cc4-4cd7-4947-be6e-6b6c4dddc053)
+
+![image](https://github.com/AdityaCoder-N/data-analysis-task/assets/91337266/3ce309dc-e997-4f29-9365-a4169dab7ce2)
+
 ## Available Scripts
 
 In the project directory, you can run:
